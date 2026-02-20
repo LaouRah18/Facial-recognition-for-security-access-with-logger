@@ -1,0 +1,5 @@
+deepface==0.0.88
+opencv-python==4.7.0.72
+numpy==1.25.2
+tensorflow>=2.12.0
+keras>=2.12.0
